@@ -1,4 +1,7 @@
-<!-- Project preview gif -->
+<!-- Preview images -->
+
+![airhome](https://github.com/Montu-Gohain/Airbnb/assets/76866991/78976e3d-1acf-4f0b-9d16-382738639627)
+![airdetails](https://github.com/Montu-Gohain/Airbnb/assets/76866991/cc1bdc6a-7eae-4469-81c4-2a7ca94e7e2b)
 
 # Project : Airbnb
 
@@ -74,5 +77,3 @@ npx prisma db push
 ```shell
 npm run dev
 ```
-
-<!-- Preview images -->
