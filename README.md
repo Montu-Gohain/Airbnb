@@ -1,5 +1,7 @@
 <!-- Preview images -->
 
+![airbnbgif](https://github.com/Montu-Gohain/Airbnb/assets/76866991/5bca2186-3a47-4793-92aa-f0a5df21bdd9)
+
 ![airhome](https://github.com/Montu-Gohain/Airbnb/assets/76866991/78976e3d-1acf-4f0b-9d16-382738639627)
 ![airdetails](https://github.com/Montu-Gohain/Airbnb/assets/76866991/cc1bdc6a-7eae-4469-81c4-2a7ca94e7e2b)
 
@@ -45,7 +47,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone
+git clone https://github.com/Montu-Gohain/Airbnb.git
 ```
 
 ### Install packages
